@@ -28,15 +28,11 @@ Flashlight: Press F key
 
 # Credits
 Game Design: [Dale Maceda]
-
-Programming: [AEDL Productions x Germs Collab]
-
-AEDL productions member: Dale Maceda
-Germs members: Vincent Briones and Peter James Condesa
-
+Map Idea: [Vincent Briones]
+Game Plan: [Peter James Condesa]
+Programming: [Dale Maceda]
 
 # Made by Unreal Engine C++
-
 Performance  
 C++ gives direct control over memory and system resources, ensuring smooth performance — critical for horror games where frame drops can ruin immersion.
 
